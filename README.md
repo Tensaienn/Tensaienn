@@ -32,7 +32,8 @@ I'm an **Informatics Engineering student at a university** and love working on s
 ## 🐍 Snake Animation
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MythEclipse/MythEclipse/output/snake.svg" alt="Snake animation" />
+    
+![snake gif](https://github.com/Tensaienn/Tensaienn/blob/output/github-snake-dark.svg)
 </div>
 
 ## 📊 GitHub Stats
