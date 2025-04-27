@@ -1,8 +1,7 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=49F707&center=true&vCenter=true&width=435&lines=Selamat+datang+di+GitHub+Aden" alt="Typing SVG" />
-    </a>
+    <img src="https://media1.tenor.com/m/kvI9Ondz1UkAAAAC/rafa%C5%82-chi-chikyuu-no-undou-ni-tsuite.gif" width="100%" alt="Naruto GIF" />
 </div>
+
 
 ## 👋 About Me
 
