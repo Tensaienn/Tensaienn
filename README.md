@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media1.tenor.com/m/kvI9Ondz1UkAAAAC/rafa%C5%82-chi-chikyuu-no-undou-ni-tsuite.gif" width="100%" alt="Naruto GIF" />
+    <img src="assets/narusasu.gif" alt="Naruto vs Sasuke" width="100%" />
 </div>
 
 
