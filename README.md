@@ -3,14 +3,26 @@
 </div>
 
 
+<table>
+  <tr>
+    <td style="border: none; vertical-align: top;">
+
 ## 👋 About Me
 
 Hi there! I'm **Aden**, a passionate programmer and technology enthusiast.  
 I'm an **Informatics Engineering student at a university** and love working on software development projects.
 
-- 🌱 I’m currently learning **C++, Python, and other programming languages related to development**.
-- 💬 Ask me about programming, tech, or anything interesting!
+- 🌱 I’m currently learning **C++, Python, and other programming languages related to development**.  
+- 💬 Ask me about programming, tech, or anything interesting!  
 - 📫 How to reach me: [Email](mailto:adencahya89@gmail.com) | [Discord](https://discord.gg/C42fk5WMKh)
+
+    </td>
+    <td style="border: none; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Tensaienn/Tensaienn/main/assets/naruto.png" alt="Naruto" width="180px">
+    </td>
+  </tr>
+</table>
+
 
 ## 💻 Technologies & Tools
 
