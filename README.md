@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/narusasu-momo.gif" alt="Naruto vs Sasuke" width="100%" />
+    <img src="assets/narusasu-momo.gif" alt="Naruto vs Sasuke" width="70%" />
 </div>
 
 
