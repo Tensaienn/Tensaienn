@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/frieren2.gif" alt="Naruto vs Sasuke" style="max-width: 100%; height: auto;" />
+    <img src="assets/dandadan1.gif" alt="dandadan" style="max-width: 100%; height: auto;" />
 </div>
 
 ## 👋 About Me
