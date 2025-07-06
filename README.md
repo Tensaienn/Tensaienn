@@ -11,8 +11,7 @@ I'm an **Informatics Engineering student at a university** and love working on s
 - 💬 Ask me about programming, tech, or anything interesting!  
 - 📫 How to reach me: [Email](mailto:adencahya89@gmail.com) | [Discord](https://discord.gg/C42fk5WMKh)
 
----
-
+<!--
 ## 💻 Technologies & Tools
 
 <div align="left">
@@ -28,7 +27,7 @@ I'm an **Informatics Engineering student at a university** and love working on s
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 </div>
-
+-->
 
 ---
 
