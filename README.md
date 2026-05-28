@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/dandadan1.gif" alt="dandadan" style="max-width: 100%; height: auto;" />
+    <img src="assets/shinichi.gif" alt="shinichi" style="max-width: 100%;" />
 </div>
 
 ## 👋 About Me
