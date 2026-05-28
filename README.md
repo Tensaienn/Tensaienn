@@ -15,7 +15,7 @@ I'm an **Informatics Engineering student at a university** and love working on s
 ## 💻 Technologies & Tools
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original-wordmark.svg" height="40" alt="Windows" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
